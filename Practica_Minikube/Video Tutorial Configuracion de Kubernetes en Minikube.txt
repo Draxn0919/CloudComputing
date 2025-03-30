@@ -1,0 +1,1 @@
+Aplicacion basica corriendo en Kubernetes en cluster minikube - https://youtu.be/UpfzHWe03nI
