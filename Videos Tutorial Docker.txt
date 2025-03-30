@@ -1,7 +1,0 @@
-Docker Instalacion - https://youtu.be/Ah7TxCD4-Zc
-
-Usar Imagenes desde un Repositorio - https://youtu.be/Xe0TdazR-s4
-
-Generar Imagen Propia - https://youtu.be/c2Gtgzpe5s4
-
-Copiar Archivos desde Directorio - https://youtu.be/EhSGDx2RrXs
